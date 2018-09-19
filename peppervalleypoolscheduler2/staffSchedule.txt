@@ -1,0 +1,77 @@
+1o XT JC  
+1c DA BG  
+2o NH XT  
+2c NH XT  
+3o AM NH  
+3c AM NH  
+4o MW AM  
+4c NH AM  
+5o XT NH  
+5c XT NH  
+6o LK BG  
+6c AM XT  
+7o DA MW  
+7c LK BG  
+8o DA MW  
+8c BG AM  
+9o BG XT  
+9c NH BG  
+10o DA BG  
+10c NH DA  
+11o XT BG  
+11c LK XT  
+12o JC LK  
+12c DA AM  
+13o LK AM  
+13c BG XT  
+14o LK DA  
+14c AM BG  
+15o LK DA  
+15c NH AM  
+16o XT NH  
+16c AM XT  
+17o BG NH  
+17c AM XT  
+18o BG XT  
+18c JC AM  
+19o JC BG  
+19c LK AM  
+20o [] []  
+20c [] []  
+21o [] []  
+21c [] []  
+22o [] []  
+22c [] []  
+23o [] []  
+23c [] []  
+24o [] []  
+24c [] []  
+25o BG XT  
+25c JC LK  
+26o JC LK  
+26c DA BG  
+27o [] []  
+27c [] []  
+28o [] []  
+28c [] []  
+29o [] []  
+29c [] []  
+30o [] []  
+30c [] []  
+31o [] []  
+31c [] []  
+32o AM XT  
+32c JC BG  
+33o JC AM  
+33c DA XT  
+34o JC DA  
+34c NH BG  
+ 
+XT: 17
+JC: 9
+DA: 11
+BG: 17
+NH: 13
+MW: 3
+LK: 10
+AM: 16
